@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.jshop.config.MetaHandler,\
+    com.jshop.config.MybatisConfig
